@@ -1,0 +1,77 @@
+1.what is a program?
+ans:Program is a process of instructions given by the user or programmer to planning what to do and how to do...
+
+example:user_en = 3000
+	bal- = 10000
+	result = bal_ - user_en
+	print(reult)
+
+2.Difference between procedural language and object oriented language?
+ans:Procedual language:
+It is Nothing but Scripting language,
+It can build only functions,it only depends on Functions only.
+
+An procedural language is organized mainly on functions 
+eg: C language.
+	
+	def cal_ad(a,b)
+	    return a + b
+	a = 7
+	b = 9
+	any_ = cal_ad(a,b)
+	print((any_))
+
+Object-Oriented-Programming:
+
+Object-Oriented programming is organized mainly on classes and object.
+
+example:
+	num = 7
+	print((type_num))
+
+What is Python?
+Python is a high-level language - Python Take cares about Memory- allocation
+
+
+It is a Interpreted-Language -  It is a Interpreted language because it can follows the line by line execution in python.
+	eg: num = 9
+	    num_2 = 90
+	    print(num)
+	    print(type(num))
+	    print(id(num))
+It is also called as Dynamically-typed Language - No need to mention the type of data passing to the variable
+	example:
+	any_ = ['python']
+	num = [1,2]
+	nums = [1,2]
+	all_ = [1,4]
+	print(type(any_))
+	print(type(num))
+	print(type(nums))
+	print(type(all_)
+
+
+example:
+	num = 9
+	print(type(num))
+	print(id(num))
+
+
+why python?
+ans:
+ 1. More Library
+ 2.Cross-platform
+ 3.Open-source
+ 4.Simple-syntax.
+
+
+Applications of Python?
+ It is used in Data Science
+ It is also used in Web-Development,Machine-Learning,Artificial-Intelligence,Deep-Learning.
+
+History of Python:
+It was Started in early 1980's, and released in the year "1991" by "Guido-Van-Rossom".
+He pick the name "Python" from the most lovable series called "Monty-Python".
+First version was released in the year of 1991 which is "python 0.9.0 and the version now we are using 3.14 ..
+
+
